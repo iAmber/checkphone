@@ -1,0 +1,13 @@
+{
+  "line"  : true,
+  "source" : true,
+  "macros"  : [
+    {
+      "fileName"        : "all",
+      "scope"           : "line",
+      "name"            : "PREFIXED_TOUCH_ACTION !== undefined;",
+      "flags"           : "g",
+      "inline"          : "false"
+    }
+  ]
+}
